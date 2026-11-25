@@ -14,7 +14,7 @@ This repository contains **only releases and documentation**. The source code is
 
 | Platform | Status |
 | --- | --- |
-| **Windows 11 (64-bit)** | [Download v0.2.0 from Releases](../../releases/tag/v0.2.0) |
+| **Windows 11 (64-bit)** | [Download v0.3.0 from Releases](../../releases/tag/v0.3.0) |
 | macOS | Not available yet |
 | Linux | Not available yet |
 
